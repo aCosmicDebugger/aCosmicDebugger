@@ -36,7 +36,7 @@ Here are some of the technologies and/or languages I love to work with:
 🌌 Let's connect and explore the cosmos together! Feel free to reach out to me via:
 
 - GitHub: [aCosmicDebugger](https://github.com/aCosmicDebugger)
-- LinkedIn: [Isaac Ramalho](https://www.linkedin.com/in/isaacramalho)
+- LinkedIn: [Isaac Ramalho](https://www.linkedin.com/in/isaac-ramalho/)
 - Email: [cosmic.debugger@email.com](mailto:acosmicdebugger@gmail.com)
 
 Looking forward to collaborating on exciting cosmic coding projects! 🚀
