@@ -20,7 +20,7 @@ diving deep into the universe of debugging.
 
 Here are some of the technologies and/or languages I love to work with:
 
-- Python (_mostly for data analysis but now learning how to use it for backend development_)
+- Python  (mostly for data analysis but now learning how to use it for backend development)
 
 - JavaScript (learning a bit for web-dev too)
 
