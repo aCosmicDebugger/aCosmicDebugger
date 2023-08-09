@@ -1,6 +1,5 @@
 # Hi, I'm Isaac Ramalho,
 
-![Profile Picture]()
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/134962260?v=4" alt="aCosmicDebugger">
 </p>
