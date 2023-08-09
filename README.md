@@ -1,13 +1,17 @@
-# aCosmicDebugger
-# Hi, I'm Isaac Ramalho, 
+# Hi, I'm Isaac Ramalho,
 
-![Profile Picture](https://avatars.githubusercontent.com/u/134962260?v=4)
+![Profile Picture]()
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/134962260?v=4" alt="aCosmicDebugger">
+</p>
 
 ## About Me
 
 Hey there! 👋 I am Isaac Ramalho, but you can call me **aCosmicDebugger**.
-I'm passionate about exploring the cosmos, software development and 
+I'm passionate about exploring the cosmos, software development and
 diving deep into the universe of debugging.
+
+
 
 ## Interests
 
@@ -33,8 +37,9 @@ Here are some of the technologies and/or languages I love to work with:
 
 ## Get in Touch
 
-🌌 Let's connect and explore the cosmos together! Feel free to reach out to me via:
+Let's connect and explore the cosmos together! Feel free to reach out to me via:
 
+- Inspire-HEP [I. E. C. R. Mendonça](https://inspirehep.net/authors/2606410)
 - GitHub: [aCosmicDebugger](https://github.com/aCosmicDebugger)
 - LinkedIn: [Isaac Ramalho](https://www.linkedin.com/in/isaac-ramalho/)
 - Email: [cosmic.debugger@email.com](mailto:acosmicdebugger@gmail.com)
