@@ -10,6 +10,8 @@ Hey there! 👋 I am Isaac Ramalho, but you can call me **aCosmicDebugger**.
 I'm passionate about exploring the cosmos, software development and
 diving deep into the universe of debugging.
 
+🔭 Observing the Universe, One Dataset at a Time
+
 
 
 ## Interests
