@@ -1,9 +1,5 @@
 # Hi, I'm Isaac Ramalho,
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/134962260?v=4" alt="aCosmicDebugger">
-</p>
-
 ## About Me
 
 Hey there! 👋 I am Isaac Ramalho, but you can call me **aCosmicDebugger**.
