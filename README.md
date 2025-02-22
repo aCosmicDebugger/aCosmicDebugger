@@ -1,6 +1,6 @@
 # Hi, I'm Isaac Ramalho,
 
-## About Me
+ **About Me**:
 
 Hey there! 👋 I am Isaac Ramalho, but you can call me **aCosmicDebugger**.
 I'm passionate about exploring the cosmos, software development and
